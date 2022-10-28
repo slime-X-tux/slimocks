@@ -1,0 +1,2 @@
+# slimocks
+My dwmblocks build.
